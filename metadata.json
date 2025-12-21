@@ -1,0 +1,8 @@
+{
+  "name": "HealthLens AI",
+  "description": "A comprehensive healthcare analysis application using multi-modal AI to detect symptoms from text, images, and audio, providing insights into potential health concerns and urgency levels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
